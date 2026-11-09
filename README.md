@@ -1,1 +1,1 @@
-# Cryptora-Crypto
+Cryptora-Crypto is a modern and responsive cryptocurrency website designed to provide users with an engaging digital finance experience. It features an intuitive interface for exploring cryptocurrency information, tracking digital asset trends, and learning about the world of blockchain and decentralized finance. Developed with a focus on modern web design, usability, and interactive user experiences.
