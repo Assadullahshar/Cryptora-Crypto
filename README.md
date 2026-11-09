@@ -1,1 +1,22 @@
-Cryptora-Crypto is a modern and responsive cryptocurrency website designed to provide users with an engaging digital finance experience. It features an intuitive interface for exploring cryptocurrency information, tracking digital asset trends, and learning about the world of blockchain and decentralized finance. Developed with a focus on modern web design, usability, and interactive user experiences.
+# CRYPTORA
+
+A responsive five-page website concept built with HTML, CSS, and vanilla JavaScript.
+
+## Pages
+- Home: `index.html`
+- Markets: `markets.html`
+- Learn: `learn.html`
+- Security: `security.html`
+- About: `about.html`
+
+## Run locally
+Open `index.html` in your browser, or use the VS Code Live Server extension.
+
+## Customize
+- Update page content in the HTML files.
+- Change colors and typography in `style.css`.
+- Add real form handling in `script.js` or connect a backend/form provider.
+- Replace demo copy and concept cards with your real content.
+
+## GitHub Pages
+Upload this folder to its own GitHub repository. In **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
